@@ -1,7 +1,7 @@
 # Playing around with MarkDown
 ---
 
-This is a regular paragraph.
+This is a regular paragraph -- test.
 
 <table>
     <tr>
