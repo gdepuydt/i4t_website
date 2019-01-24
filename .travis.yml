@@ -20,6 +20,8 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   local-dir: ./book
+  repo: gdepuydt.github.io
+  target-branch: master
   keep-history: false
   on:
     branch: master
